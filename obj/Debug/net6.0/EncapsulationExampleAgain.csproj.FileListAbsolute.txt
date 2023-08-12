@@ -1,0 +1,15 @@
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\bin\Debug\net6.0\EncapsulationExampleAgain.exe
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\bin\Debug\net6.0\EncapsulationExampleAgain.deps.json
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\bin\Debug\net6.0\EncapsulationExampleAgain.runtimeconfig.json
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\bin\Debug\net6.0\EncapsulationExampleAgain.dll
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\bin\Debug\net6.0\EncapsulationExampleAgain.pdb
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.csproj.AssemblyReference.cache
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.AssemblyInfoInputs.cache
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.AssemblyInfo.cs
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.csproj.CoreCompileInputs.cache
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.dll
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\refint\EncapsulationExampleAgain.dll
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.pdb
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\EncapsulationExampleAgain.genruntimeconfig.cache
+D:\OJT\BackEnd Training\C# Examples\EncapsulationExampleAgain\obj\Debug\net6.0\ref\EncapsulationExampleAgain.dll
